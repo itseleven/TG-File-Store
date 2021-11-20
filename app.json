@@ -8,10 +8,10 @@
     "Files"
   ],
   "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
-  "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
-  "env": {
+  "success_url": "https://telegra.ph/file/4995b662d1b17a5aec575.png"
+  "website": "https://telegra.ph/file/4995b662d1b17a5aec575.png",
+  "repository": "
+  "env": {https://telegra.ph/file/4995b662d1b17a5aec575.png"
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
       "value": "ANYTHING"
